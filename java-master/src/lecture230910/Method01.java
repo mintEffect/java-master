@@ -16,6 +16,14 @@ public class Method01 {
         System.out.println(div);
         System.out.println(cal);
     }
+<<<<<<< HEAD
+=======
+    /*
+     접근제어자 리턴타입 메서드명 (파라메터1, 파라메터2 ....){
+        로직
+     }
+     */
+>>>>>>> d6d7901271e92dc3a1e43946e4d06347d0fe9fe3
     public int addNumber(int num,int num2){
         return num + num2;
     }
